@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "title": "churrasco",
+    "description": "alto churrasco",
+    "price": 620,
+    "thumbnail": "churrascoJugoso.jpg",
+    "code": "328a",
+    "stock": 12
+  },
+  {
+    "id": 1,
+    "title": "empanada2",
+    "description": "una rica empanada",
+    "price": 330,
+    "thumbnail": "empanada.jpg",
+    "code": "328b",
+    "stock": 33
+  },
+  {
+    "id": 2,
+    "title": "empanada3",
+    "description": "una rica empanada",
+    "price": 330,
+    "thumbnail": "empanada.jpg",
+    "code": "328c",
+    "stock": 33
+  },
+  {
+    "id": 3,
+    "title": "empanada4",
+    "description": "una rica empanada",
+    "price": 330,
+    "thumbnail": "empanada.jpg",
+    "code": "328d",
+    "stock": 33
+  },
+  {
+    "id": 4,
+    "title": "empanada5",
+    "description": "una rica empanada",
+    "price": 330,
+    "thumbnail": "empanada.jpg",
+    "code": "328e",
+    "stock": 33
+  },
+  {
+    "id": 5,
+    "title": "empanada6",
+    "description": "una rica empanada",
+    "price": 330,
+    "thumbnail": "empanada.jpg",
+    "code": "328f",
+    "stock": 33
+  }
+]
