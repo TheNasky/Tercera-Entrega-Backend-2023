@@ -3,7 +3,7 @@ import fs from "fs";
 const port = 8080
 const app = express()
 
-let data = await fs.promises.readFile('./products.json');
+let data = await fs.promises.readFile('../products.json');
 let merch = JSON.parse(data);
 //console.log(merch);
        
